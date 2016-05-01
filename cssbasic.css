@@ -1,0 +1,28 @@
+body{
+	color: blue;
+}
+
+p{
+	color: red;
+	background-color:yellow; 
+}
+
+p.green{
+	color: green;
+	background-color:white; 
+}
+
+p#orange{
+	color: orange;
+	background-color:white; 
+}
+
+h1{
+	color: green;
+}
+
+@font-face{
+	font-family: "Emblema One";
+	src: url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.woff"),
+		 url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.ttf");
+}
